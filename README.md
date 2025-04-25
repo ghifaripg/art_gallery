@@ -49,11 +49,11 @@ Built with a focus on performance, clarity, and maintainability:
 
 ## 🚀 Features
 
-- 🖼️ View global artworks by category: sculptures, photographs, paintings, and books.
-- 💬 Comment and engage in discussions with fellow art enthusiasts.
-- 🔍 Gain deeper insight into each artwork through shared reviews.
-- 📊 Curated data management system using CSV-to-MySQL pipeline.
-- 🎛️ Admin dashboard for easy management of artworks and user activity.
+- View global artworks by category: sculptures, photographs, paintings, and books.
+- Comment and engage in discussions with fellow art enthusiasts.
+- Gain deeper insight into each artwork through shared reviews.
+- Curated data management system using CSV-to-MySQL pipeline.
+- Admin dashboard for easy management of artworks and user activity.
 
 ---
 
