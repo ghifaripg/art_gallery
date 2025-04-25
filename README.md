@@ -108,9 +108,3 @@ This project was driven by a passion for making art more accessible in the digit
 - Expand the database with more artworks and metadata.
 - Integrate machine learning for personalized art recommendations.
 - Enhance UI/UX for mobile responsiveness.
-
----
-
-## 🙌 Acknowledgements
-
-Special thanks to the open data sources and the global community of artists and archivists who make digital preservation and appreciation of art possible.
