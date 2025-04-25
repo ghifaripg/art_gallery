@@ -4,7 +4,7 @@
 
 Welcome to my **Art Gallery Project**, a digital platform crafted to celebrate the richness of artistic expression across cultures and centuries. This web application allows users to explore, engage with, and reflect on artworks from around the world—ranging from timeless sculptures and classic paintings to powerful photographs and historical literary works.
 
-💡 How It All Started
+## 💡 How It All Started
 The idea for this project was born out of a simple, yet powerful question:
 “What if anyone, anywhere, could experience the beauty of global art without needing to visit a museum?”
 
